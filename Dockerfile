@@ -1,3 +1,3 @@
 FROM alpine
 
-ENTRYPOINT echo hallo Allard
+ENTRYPOINT echo hallo Allard Krings
